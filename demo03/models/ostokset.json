@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "tuote": "Maitoa",
+    "poimittu": false
+  },
+  {
+    "id": 2,
+    "tuote": "Leipää",
+    "poimittu": false
+  },
+  {
+    "id": 3,
+    "tuote": "Kahvia",
+    "poimittu": false
+  }
+]
