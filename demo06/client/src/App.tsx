@@ -16,7 +16,7 @@ interface ApiData {
 
 const App : React.FC = () : React.ReactElement => {
 
-  const lomakeRef = useRef<HTMLFormElement>();
+  const lomakeRef = useRef<any>();
 
   const [apiData, setApiData] = useState<ApiData>({
                                                     ostokset : [],
